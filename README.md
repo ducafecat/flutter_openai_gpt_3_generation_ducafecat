@@ -2,6 +2,8 @@
 
 Flutter 中使用 OpenAI API GPT-3 进行语义化处理
 
+![](https://ducafecat.oss-cn-beijing.aliyuncs.com/podcast/20221208133143.png)
+
 ## Flutter 环境
 
 ```sh
