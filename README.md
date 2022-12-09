@@ -6,7 +6,7 @@ Flutter 中使用 OpenAI API GPT-3 进行语义化处理
 
 ## 视频
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?aid=776103773&bvid=BV1914y1K7NP&cid=917410646&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1914y1K7NP/?share_source=copy_web&vd_source=9a8fd40b53ff1b06722df13555f48c75
 
 ## 文档
 
@@ -36,7 +36,7 @@ Tools • Dart 2.18.5 • DevTools 2.15.0
 
 ![猫哥课程](https://ducafecat.oss-cn-beijing.aliyuncs.com/ducafecat/video-ducafecat-banner.png)
 
-- [https://video.ducafecat.tech](https://video.ducafecat.tech)
+- https://video.ducafecat.tech
 
 ---
 
